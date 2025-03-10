@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "525619169096",
+    "firebase_url": "https://kotlin-animal-park-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kotlin-animal-park",
+    "storage_bucket": "kotlin-animal-park.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525619169096:android:e917864c3386c2c48c157d",
+        "android_client_info": {
+          "package_name": "fr.isen.tueno.colombaudgracia.kotlinanimalpark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsejFCLIwuL1R0ASNORG3Yt-3g-ocJP4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

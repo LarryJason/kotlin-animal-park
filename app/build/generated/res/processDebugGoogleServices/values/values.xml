@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://kotlin-animal-park-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">525619169096</string>
+    <string name="google_api_key" translatable="false">AIzaSyAsejFCLIwuL1R0ASNORG3Yt-3g-ocJP4o</string>
+    <string name="google_app_id" translatable="false">1:525619169096:android:e917864c3386c2c48c157d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAsejFCLIwuL1R0ASNORG3Yt-3g-ocJP4o</string>
+    <string name="google_storage_bucket" translatable="false">kotlin-animal-park.firebasestorage.app</string>
+    <string name="project_id" translatable="false">kotlin-animal-park</string>
+</resources>
