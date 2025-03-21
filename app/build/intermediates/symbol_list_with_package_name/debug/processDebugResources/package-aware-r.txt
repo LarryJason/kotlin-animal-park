@@ -354,6 +354,9 @@ string status_bar_notification_info_overflow
 string switch_role
 string tab
 string template_percent
+string title_activity_home
+string title_activity_login
+string title_activity_register
 string tooltip_description
 string tooltip_label
 style DialogWindowTheme

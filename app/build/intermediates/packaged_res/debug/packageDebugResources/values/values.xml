@@ -7,7 +7,7 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
-    <string name="app_name">Kotlin Animal Park</string>
+    <string name="app_name">KotlinAnimalPark</string>
     <string name="firebase_database_url" translatable="false">https://kotlin-animal-park-default-rtdb.europe-west1.firebasedatabase.app</string>
     <string name="gcm_defaultSenderId" translatable="false">525619169096</string>
     <string name="google_api_key" translatable="false">AIzaSyAsejFCLIwuL1R0ASNORG3Yt-3g-ocJP4o</string>
@@ -15,5 +15,8 @@
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAsejFCLIwuL1R0ASNORG3Yt-3g-ocJP4o</string>
     <string name="google_storage_bucket" translatable="false">kotlin-animal-park.firebasestorage.app</string>
     <string name="project_id" translatable="false">kotlin-animal-park</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
     <style name="Theme.KotlinAnimalPark" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>

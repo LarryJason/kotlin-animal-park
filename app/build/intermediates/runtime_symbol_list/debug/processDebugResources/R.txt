@@ -353,8 +353,11 @@ int string status_bar_notification_info_overflow 0x7f0a006e
 int string switch_role 0x7f0a006f
 int string tab 0x7f0a0070
 int string template_percent 0x7f0a0071
-int string tooltip_description 0x7f0a0072
-int string tooltip_label 0x7f0a0073
+int string title_activity_home 0x7f0a0072
+int string title_activity_login 0x7f0a0073
+int string title_activity_register 0x7f0a0074
+int string tooltip_description 0x7f0a0075
+int string tooltip_label 0x7f0a0076
 int style DialogWindowTheme 0x7f0b0000
 int style FloatingDialogTheme 0x7f0b0001
 int style FloatingDialogWindowTheme 0x7f0b0002

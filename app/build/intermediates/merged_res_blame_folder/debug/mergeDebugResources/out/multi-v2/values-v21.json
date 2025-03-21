@@ -4,7 +4,7 @@
             "outputFile": "fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-mergeDebugResources-57:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\damcg\\.gradle\\caches\\8.10.2\\transforms\\6e1d1739e5dc7177b408143f4cb8d741\\transformed\\core-1.15.0\\res\\values-v21\\values-v21.xml",
+                    "source": "/home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/062286a4652512c2e74794f25482779f/transformed/core-1.15.0/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\damcg\\.gradle\\caches\\8.10.2\\transforms\\b8a7a282bfb78627293cb3a08532179b\\transformed\\credentials-play-services-auth-1.2.0-rc01\\res\\values-v21\\values-v21.xml",
+                    "source": "/home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

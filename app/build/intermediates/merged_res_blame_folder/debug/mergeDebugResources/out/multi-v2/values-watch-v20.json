@@ -4,7 +4,7 @@
             "outputFile": "fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-mergeDebugResources-57:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\damcg\\.gradle\\caches\\8.10.2\\transforms\\18a94237030d63194523b2ce7b11e5d2\\transformed\\play-services-auth-20.7.0\\res\\values-watch-v20\\values.xml",
+                    "source": "/home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a24cc3a590868679f7564bef4f650f50/transformed/play-services-auth-20.7.0/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

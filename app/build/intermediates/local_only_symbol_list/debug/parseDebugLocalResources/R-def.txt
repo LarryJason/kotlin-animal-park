@@ -19,6 +19,9 @@ string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
 string project_id
+string title_activity_home
+string title_activity_login
+string title_activity_register
 style Theme.KotlinAnimalPark
 xml backup_rules
 xml data_extraction_rules
