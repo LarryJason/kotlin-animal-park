@@ -357,6 +357,7 @@ string template_percent
 string title_activity_home
 string title_activity_login
 string title_activity_register
+string title_activity_user
 string tooltip_description
 string tooltip_label
 style DialogWindowTheme

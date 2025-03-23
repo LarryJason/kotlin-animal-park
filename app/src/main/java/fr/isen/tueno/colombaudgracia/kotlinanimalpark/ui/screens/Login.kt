@@ -3,6 +3,7 @@ package fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens
 import android.content.Intent
 import android.os.Bundle
 import android.view.inputmethod.InputBinding
+import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
@@ -60,6 +61,22 @@ fun LoginScreen() {
     val context = LocalContext.current
 
 
+    fun login (){
+        lateinit var auth: FirebaseAuth
+        auth= FirebaseAuth.getInstance()
+
+        auth.signInWithEmailAndPassword(email.value,password.value)
+            .addOnCompleteListener { task ->
+                if(task.isSuccessful){
+                    val intent= Intent(context ,Home::class.java)
+                    context.startActivity(intent)
+                    Toast.makeText(context, "Vous ètes connecté", Toast.LENGTH_LONG).show()
+                    //finish()
+                }
+            }.addOnFailureListener { exception ->
+                Toast.makeText(context, "Erreur veuillez réessayer", Toast.LENGTH_LONG).show()
+            }
+    }
     
     Column(
         modifier = Modifier
@@ -108,7 +125,13 @@ fun LoginScreen() {
     Spacer(modifier = Modifier.height(10.dp))
     Row {
         Button(
-            onClick = { },
+            onClick = {
+                if (email.value.isEmpty() || password.value.isEmpty()) {
+                    Toast.makeText(context, "Veuillez remplir tous les champs", Toast.LENGTH_LONG).show()
+                } else {
+                    login()
+                }
+            },
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(top = 550.dp)
@@ -135,7 +158,6 @@ fun LoginScreen() {
         
     }
 }
-    
 
 @Preview(showBackground = true)
 @Composable

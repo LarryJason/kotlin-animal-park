@@ -356,6 +356,7 @@ int string template_percent 0x7f0a0071
 int string title_activity_home 0x7f0a0072
 int string title_activity_login 0x7f0a0073
 int string title_activity_register 0x7f0a0074
+int string title_activity_user 0x7f0a0077
 int string tooltip_description 0x7f0a0075
 int string tooltip_label 0x7f0a0076
 int style DialogWindowTheme 0x7f0b0000

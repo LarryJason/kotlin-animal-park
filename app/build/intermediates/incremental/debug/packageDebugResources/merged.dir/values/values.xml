@@ -18,5 +18,6 @@
     <string name="title_activity_home">Home</string>
     <string name="title_activity_login">Login</string>
     <string name="title_activity_register">Register</string>
+    <string name="title_activity_user">User</string>
     <style name="Theme.KotlinAnimalPark" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>
