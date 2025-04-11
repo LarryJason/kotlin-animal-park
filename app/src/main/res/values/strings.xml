@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">KotlinAnimalPark</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_user">User</string>
+    <string name="title_activity_nav_bar">NavBar</string>
+    <string name="title_activity_tab_view">TabView</string>
+    <string name="title_activity_enclosure_details">EnclosureDetails</string>
 </resources>
