@@ -15,6 +15,7 @@
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAsejFCLIwuL1R0ASNORG3Yt-3g-ocJP4o</string>
     <string name="google_storage_bucket" translatable="false">kotlin-animal-park.firebasestorage.app</string>
     <string name="project_id" translatable="false">kotlin-animal-park</string>
+    <string name="title_activity_enclosure_details">EnclosureDetails</string>
     <string name="title_activity_home">Home</string>
     <string name="title_activity_login">Login</string>
     <string name="title_activity_nav_bar">NavBar</string>

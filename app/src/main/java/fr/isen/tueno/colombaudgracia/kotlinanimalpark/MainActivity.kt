@@ -34,6 +34,7 @@ import com.google.firebase.auth.auth
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.database
 import fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.ButtomNavigationBar
+import fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.EnclosuresListScreen
 import fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.HomeScreen
 import fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.User
 import fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.userScreen
@@ -74,7 +75,7 @@ fun MainScreen(){
             modifier = Modifier.padding(padding)
         ) {
             composable(Routes.Home.route) { HomeScreen() }
-            //composable(Routes.Profile.route) { ProfileScreen() }
+            composable(Routes.Enclos.route) { EnclosuresListScreen() }
             composable(Routes.Profile.route) { userScreen() }
         }
     }

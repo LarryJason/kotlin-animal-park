@@ -2461,6 +2461,7 @@ string status_bar_notification_info_overflow
 string switch_role
 string tab
 string template_percent
+string title_activity_enclosure_details
 string title_activity_home
 string title_activity_login
 string title_activity_nav_bar

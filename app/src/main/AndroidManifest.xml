@@ -51,13 +51,17 @@
             android:exported="true"
             android:label="@string/title_activity_home"
             android:theme="@style/Theme.KotlinAnimalPark">
-
         </activity>
         <activity
             android:name=".ui.screens.Register"
             android:exported="false"
             android:label="@string/title_activity_register"
             android:theme="@style/Theme.KotlinAnimalPark" />
+        <activity
+            android:name=".ui.screens.EnclosureDetails"
+            android:exported="false"
+            android:label="@string/title_activity_enclosure_details"
+            android:theme="@style/Theme.KotlinAnimalPark"/>
     </application>
 
 </manifest>

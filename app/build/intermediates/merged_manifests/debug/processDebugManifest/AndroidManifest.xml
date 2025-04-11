@@ -87,6 +87,11 @@
             android:label="@string/title_activity_register"
             android:theme="@style/Theme.KotlinAnimalPark" />
         <activity
+            android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.EnclosureDetails"
+            android:exported="false"
+            android:label="@string/title_activity_enclosure_details"
+            android:theme="@style/Theme.KotlinAnimalPark" />
+        <activity
             android:name="androidx.compose.ui.tooling.PreviewActivity"
             android:exported="true" />
         <activity

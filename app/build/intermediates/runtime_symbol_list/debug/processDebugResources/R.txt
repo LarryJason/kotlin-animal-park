@@ -2460,6 +2460,7 @@ int string status_bar_notification_info_overflow 0x7f0f00e1
 int string switch_role 0x7f0f00e2
 int string tab 0x7f0f00e3
 int string template_percent 0x7f0f00e4
+int string title_activity_enclosure_details 0x7f0f00ed
 int string title_activity_home 0x7f0f00e5
 int string title_activity_login 0x7f0f00e6
 int string title_activity_nav_bar 0x7f0f00e7
