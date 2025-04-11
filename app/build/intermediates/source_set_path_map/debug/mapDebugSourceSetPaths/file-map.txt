@@ -68,10 +68,10 @@ fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-activity-ktx-1.10.1-66 C:\Use
 fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-activity-1.10.1-67 C:\Users\damcg\.gradle\caches\8.10.2\transforms\f8fa66e96cd69c3451a94bb34197cda9\transformed\activity-1.10.1\res
 fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-appcompat-resources-1.2.0-68 C:\Users\damcg\.gradle\caches\8.10.2\transforms\feeceebec9735dbd7de50ae30ef866b4\transformed\appcompat-resources-1.2.0\res
 fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-ads-adservices-java-1.1.0-beta11-69 C:\Users\damcg\.gradle\caches\8.10.2\transforms\ff923517fb67066b42a01071cb56e3ac\transformed\ads-adservices-java-1.1.0-beta11\res
-fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-res-70 D:\1.ECHANGE\Android\kotlin-animal-park-v2\app\build\generated\res\processDebugGoogleServices
-fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-resValues-71 D:\1.ECHANGE\Android\kotlin-animal-park-v2\app\build\generated\res\resValues\debug
-fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-packageDebugResources-72 D:\1.ECHANGE\Android\kotlin-animal-park-v2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-packageDebugResources-73 D:\1.ECHANGE\Android\kotlin-animal-park-v2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-debug-74 D:\1.ECHANGE\Android\kotlin-animal-park-v2\app\build\intermediates\merged_res\debug\mergeDebugResources
-fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-debug-75 D:\1.ECHANGE\Android\kotlin-animal-park-v2\app\src\debug\res
-fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-main-76 D:\1.ECHANGE\Android\kotlin-animal-park-v2\app\src\main\res
+fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-res-70 D:\1.ECHANGE\Android\kotlin-animal-park-final\app\build\generated\res\processDebugGoogleServices
+fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-resValues-71 D:\1.ECHANGE\Android\kotlin-animal-park-final\app\build\generated\res\resValues\debug
+fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-packageDebugResources-72 D:\1.ECHANGE\Android\kotlin-animal-park-final\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-packageDebugResources-73 D:\1.ECHANGE\Android\kotlin-animal-park-final\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-debug-74 D:\1.ECHANGE\Android\kotlin-animal-park-final\app\build\intermediates\merged_res\debug\mergeDebugResources
+fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-debug-75 D:\1.ECHANGE\Android\kotlin-animal-park-final\app\src\debug\res
+fr.isen.tueno.colombaudgracia.kotlinanimalpark.app-main-76 D:\1.ECHANGE\Android\kotlin-animal-park-final\app\src\main\res
