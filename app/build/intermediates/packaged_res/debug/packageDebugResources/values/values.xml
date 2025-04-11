@@ -17,7 +17,9 @@
     <string name="project_id" translatable="false">kotlin-animal-park</string>
     <string name="title_activity_home">Home</string>
     <string name="title_activity_login">Login</string>
+    <string name="title_activity_nav_bar">NavBar</string>
     <string name="title_activity_register">Register</string>
+    <string name="title_activity_tab_view">TabView</string>
     <string name="title_activity_user">User</string>
     <style name="Theme.KotlinAnimalPark" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>

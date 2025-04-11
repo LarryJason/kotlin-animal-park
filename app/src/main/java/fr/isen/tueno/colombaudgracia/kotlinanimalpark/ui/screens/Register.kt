@@ -32,6 +32,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.google.firebase.auth.FirebaseAuth
+import fr.isen.tueno.colombaudgracia.kotlinanimalpark.MainActivity
 import fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.ui.theme.KotlinAnimalParkTheme
 
 class Register : ComponentActivity() {
@@ -58,7 +59,7 @@ fun RegisterScreen() {
         auth.createUserWithEmailAndPassword(email.value,password.value)
             .addOnCompleteListener { task ->
                 if(task.isSuccessful){
-                    val intent= Intent(context ,Home::class.java)
+                    val intent= Intent(context ,MainActivity::class.java)
                     context.startActivity(intent)
                     //finish()
                 }
@@ -88,7 +89,7 @@ fun RegisterScreen() {
         TextField(
             value = email.value,
             onValueChange = { email.value = it },
-            placeholder = { Text("Email")},
+            placeholder = { Text("Email") },
             keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Email),
             singleLine = true,
             maxLines = 1,

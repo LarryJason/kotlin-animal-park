@@ -11,479 +11,487 @@
 11    <uses-permission android:name="android.permission.INTERNET" />
 11-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:5:5-67
 11-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:5:22-64
-12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:26:5-79
-12-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:26:22-76
-13    <uses-permission android:name="android.permission.WAKE_LOCK" />
-13-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:25:5-68
-13-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:25:22-65
-14    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-14-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:26:5-110
-14-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:26:22-107
-15    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-15-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2e842fb017d30038326cd6e96f088850/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:25:5-79
-15-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2e842fb017d30038326cd6e96f088850/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:25:22-76
-16    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
-16-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2e842fb017d30038326cd6e96f088850/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:26:5-88
-16-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2e842fb017d30038326cd6e96f088850/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:26:22-85
-17    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
-17-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2e842fb017d30038326cd6e96f088850/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:27:5-82
-17-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2e842fb017d30038326cd6e96f088850/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:27:22-79
-18    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
-18-->[com.google.android.recaptcha:recaptcha:18.6.1] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9333197d60bd36e8335bcb6963617f66/transformed/recaptcha-18.6.1/AndroidManifest.xml:9:5-98
-18-->[com.google.android.recaptcha:recaptcha:18.6.1] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9333197d60bd36e8335bcb6963617f66/transformed/recaptcha-18.6.1/AndroidManifest.xml:9:22-95
-19
-20    <permission
-20-->[androidx.core:core:1.15.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/062286a4652512c2e74794f25482779f/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
-21        android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-21-->[androidx.core:core:1.15.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/062286a4652512c2e74794f25482779f/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
-22        android:protectionLevel="signature" />
-22-->[androidx.core:core:1.15.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/062286a4652512c2e74794f25482779f/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
-23
-24    <uses-permission android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-24-->[androidx.core:core:1.15.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/062286a4652512c2e74794f25482779f/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
-24-->[androidx.core:core:1.15.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/062286a4652512c2e74794f25482779f/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
-25
-26    <application
-26-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:7:5-63:19
-27        android:allowBackup="true"
-27-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:8:9-35
-28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-28-->[androidx.core:core:1.15.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/062286a4652512c2e74794f25482779f/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
-29        android:dataExtractionRules="@xml/data_extraction_rules"
-29-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:9:9-65
-30        android:debuggable="true"
-31        android:extractNativeLibs="false"
-32        android:fullBackupContent="@xml/backup_rules"
-32-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:10:9-54
-33        android:icon="@mipmap/ic_launcher"
-33-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:11:9-43
-34        android:label="@string/app_name"
-34-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:12:9-41
-35        android:roundIcon="@mipmap/ic_launcher_round"
-35-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:13:9-54
-36        android:supportsRtl="true"
-36-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:14:9-35
-37        android:testOnly="true"
-38        android:theme="@style/Theme.KotlinAnimalPark" >
-38-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:15:9-54
-39        <activity
-39-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:17:9-27:20
-40            android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.User"
-40-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:18:13-44
-41            android:exported="true"
-41-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:19:13-36
-42            android:label="@string/title_activity_user"
-42-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:20:13-56
-43            android:theme="@style/Theme.KotlinAnimalPark" >
-43-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:21:13-58
-44            <intent-filter>
-44-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:22:13-26:29
-45                <action android:name="android.intent.action.MAIN" />
-45-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:23:17-69
-45-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:23:25-66
+12
+13    <queries>
+13-->[androidx.media:media:1.4.1] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/cd54e29e0dab6fa95bfd272b0fe3e98d/transformed/media-1.4.1/AndroidManifest.xml:24:5-28:15
+14        <intent>
+14-->[androidx.media:media:1.4.1] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/cd54e29e0dab6fa95bfd272b0fe3e98d/transformed/media-1.4.1/AndroidManifest.xml:25:9-27:18
+15            <action android:name="android.media.browse.MediaBrowserService" />
+15-->[androidx.media:media:1.4.1] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/cd54e29e0dab6fa95bfd272b0fe3e98d/transformed/media-1.4.1/AndroidManifest.xml:26:13-79
+15-->[androidx.media:media:1.4.1] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/cd54e29e0dab6fa95bfd272b0fe3e98d/transformed/media-1.4.1/AndroidManifest.xml:26:21-76
+16        </intent>
+17    </queries>
+18
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:26:5-79
+19-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:26:22-76
+20    <uses-permission android:name="android.permission.WAKE_LOCK" />
+20-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:25:5-68
+20-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:25:22-65
+21    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+21-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:26:5-110
+21-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:26:22-107
+22    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+22-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a407f381ce1fad5656e3b820903863e1/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:25:5-79
+22-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a407f381ce1fad5656e3b820903863e1/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:25:22-76
+23    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
+23-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a407f381ce1fad5656e3b820903863e1/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:26:5-88
+23-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a407f381ce1fad5656e3b820903863e1/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:26:22-85
+24    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
+24-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a407f381ce1fad5656e3b820903863e1/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:27:5-82
+24-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a407f381ce1fad5656e3b820903863e1/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:27:22-79
+25    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+25-->[com.google.android.recaptcha:recaptcha:18.6.1] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/50900bda61edea937ec1d1de92251186/transformed/recaptcha-18.6.1/AndroidManifest.xml:9:5-98
+25-->[com.google.android.recaptcha:recaptcha:18.6.1] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/50900bda61edea937ec1d1de92251186/transformed/recaptcha-18.6.1/AndroidManifest.xml:9:22-95
+26
+27    <permission
+27-->[androidx.core:core:1.15.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/715d8eac42e06eceaf6ab2c4165bf90a/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+28        android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+28-->[androidx.core:core:1.15.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/715d8eac42e06eceaf6ab2c4165bf90a/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+29        android:protectionLevel="signature" />
+29-->[androidx.core:core:1.15.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/715d8eac42e06eceaf6ab2c4165bf90a/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+30
+31    <uses-permission android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+31-->[androidx.core:core:1.15.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/715d8eac42e06eceaf6ab2c4165bf90a/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+31-->[androidx.core:core:1.15.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/715d8eac42e06eceaf6ab2c4165bf90a/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+32
+33    <application
+33-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:7:5-61:19
+34        android:allowBackup="true"
+34-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:8:9-35
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.15.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/715d8eac42e06eceaf6ab2c4165bf90a/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+36        android:dataExtractionRules="@xml/data_extraction_rules"
+36-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:9:9-65
+37        android:debuggable="true"
+38        android:extractNativeLibs="false"
+39        android:fullBackupContent="@xml/backup_rules"
+39-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:10:9-54
+40        android:icon="@mipmap/ic_launcher"
+40-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:11:9-43
+41        android:label="@string/app_name"
+41-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:12:9-41
+42        android:roundIcon="@mipmap/ic_launcher_round"
+42-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:13:9-54
+43        android:supportsRtl="true"
+43-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:14:9-35
+44        android:testOnly="true"
+45        android:theme="@style/Theme.KotlinAnimalPark" >
+45-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:15:9-54
 46
-47                <category android:name="android.intent.category.LAUNCHER" />
-47-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:25:17-77
-47-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:25:27-74
-48            </intent-filter>
-49        </activity>
-50        <activity
-50-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:28:9-33:20
-51            android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.Home"
-51-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:29:13-44
-52            android:exported="false"
-52-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:30:13-37
-53            android:label="@string/title_activity_home"
-53-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:31:13-56
-54            android:theme="@style/Theme.KotlinAnimalPark" >
-54-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:32:13-58
-55        </activity>
-56        <activity
-56-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:34:9-38:61
-57            android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.Register"
-57-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:35:13-48
-58            android:exported="false"
-58-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:36:13-37
-59            android:label="@string/title_activity_register"
-59-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:37:13-60
-60            android:theme="@style/Theme.KotlinAnimalPark" />
-60-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:38:13-58
+47        <!-- Login = écran d’accueil -->
+48        <activity
+48-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:19:9-28:20
+49            android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.Login"
+49-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:20:13-45
+50            android:exported="true"
+50-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:21:13-36
+51            android:label="@string/title_activity_login"
+51-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:22:13-57
+52            android:theme="@style/Theme.KotlinAnimalPark" >
+52-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:23:13-58
+53            <intent-filter>
+53-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:24:13-27:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:25:17-69
+54-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:25:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:26:17-77
+56-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:26:27-74
+57            </intent-filter>
+58        </activity>
+59
+60        <!-- Page principale avec la NavBar -->
 61        <activity
-61-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:39:9-43:70
-62            android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.Login"
-62-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:40:13-45
-63            android:exported="false"
-63-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:41:13-37
-64            android:label="@string/title_activity_login"
-64-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:42:13-57
-65            android:theme="@style/Theme.KotlinAnimalPark" />
-65-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:43:13-58
-66        <activity
-66-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:44:9-48:61
-67            android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.pages.Login"
-67-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:45:13-43
-68            android:exported="false"
-68-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:46:13-37
-69            android:label="@string/title_activity_login"
-69-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:47:13-57
-70            android:theme="@style/Theme.KotlinAnimalPark" />
-70-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:48:13-58
-71        <activity
-71-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:49:9-62:20
-72            android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.MainActivity"
-72-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:50:13-41
-73            android:exported="true"
-73-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:51:13-36
-74            android:label="@string/app_name"
-74-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:52:13-45
-75            android:theme="@style/Theme.KotlinAnimalPark" >
-75-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:53:13-58
-76
-77            <!--
-78            <intent-filter>
-79                <action android:name="android.intent.action.MAIN" />
-80
-81                <category android:name="android.intent.category.LAUNCHER" />
-82            </intent-filter>
-83            -->
-84        </activity>
-85        <activity
-85-->[androidx.compose.ui:ui-tooling-android:1.6.6] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/70ec4c52897be1def0fe7b88c033668b/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
-86            android:name="androidx.compose.ui.tooling.PreviewActivity"
-86-->[androidx.compose.ui:ui-tooling-android:1.6.6] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/70ec4c52897be1def0fe7b88c033668b/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
-87            android:exported="true" />
-87-->[androidx.compose.ui:ui-tooling-android:1.6.6] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/70ec4c52897be1def0fe7b88c033668b/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
-88        <activity
-88-->[androidx.compose.ui:ui-test-manifest:1.6.6] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/8352f14d9a11d692ec17fe24230293c0/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:23:9-25:39
-89            android:name="androidx.activity.ComponentActivity"
-89-->[androidx.compose.ui:ui-test-manifest:1.6.6] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/8352f14d9a11d692ec17fe24230293c0/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:24:13-63
-90            android:exported="true" />
-90-->[androidx.compose.ui:ui-test-manifest:1.6.6] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/8352f14d9a11d692ec17fe24230293c0/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:25:13-36
-91        <activity
-91-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:29:9-46:20
-92            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-92-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:30:13-80
-93            android:excludeFromRecents="true"
-93-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:31:13-46
-94            android:exported="true"
-94-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:32:13-36
-95            android:launchMode="singleTask"
-95-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:33:13-44
-96            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-96-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:34:13-72
-97            <intent-filter>
-97-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:35:13-45:29
-98                <action android:name="android.intent.action.VIEW" />
-98-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:36:17-69
-98-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:36:25-66
-99
-100                <category android:name="android.intent.category.DEFAULT" />
-100-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:38:17-76
-100-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:38:27-73
-101                <category android:name="android.intent.category.BROWSABLE" />
-101-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:39:17-78
-101-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:39:27-75
-102
-103                <data
-103-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:41:17-44:51
-104                    android:host="firebase.auth"
-104-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:42:21-49
-105                    android:path="/"
-105-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:43:21-37
-106                    android:scheme="genericidp" />
-106-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:44:21-48
-107            </intent-filter>
-108        </activity>
-109        <activity
-109-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:47:9-64:20
-110            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-110-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:48:13-79
-111            android:excludeFromRecents="true"
-111-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:49:13-46
-112            android:exported="true"
-112-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:50:13-36
-113            android:launchMode="singleTask"
-113-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:51:13-44
-114            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-114-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:52:13-72
-115            <intent-filter>
-115-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:53:13-63:29
-116                <action android:name="android.intent.action.VIEW" />
-116-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:36:17-69
-116-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:36:25-66
-117
-118                <category android:name="android.intent.category.DEFAULT" />
-118-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:38:17-76
-118-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:38:27-73
-119                <category android:name="android.intent.category.BROWSABLE" />
-119-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:39:17-78
-119-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:39:27-75
-120
-121                <data
-121-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:41:17-44:51
-122                    android:host="firebase.auth"
-122-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:42:21-49
-123                    android:path="/"
-123-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:43:21-37
-124                    android:scheme="recaptcha" />
-124-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:44:21-48
-125            </intent-filter>
-126        </activity>
-127
-128        <service
-128-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:66:9-72:19
-129            android:name="com.google.firebase.components.ComponentDiscoveryService"
-129-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:67:13-84
-130            android:directBootAware="true"
-130-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/e0ab55d2be26c9f05b6f3c7bbf705dc5/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
-131            android:exported="false" >
-131-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:68:13-37
-132            <meta-data
-132-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:69:13-71:85
-133                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-133-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:70:17-109
-134                android:value="com.google.firebase.components.ComponentRegistrar" />
-134-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/21d54716948dbd1e30fd919ed35b10b4/transformed/firebase-auth-23.2.0/AndroidManifest.xml:71:17-82
-135            <meta-data
-135-->[com.google.firebase:firebase-database:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/03dc90dc22fd191d92bd5d644f6416d4/transformed/firebase-database-21.0.0/AndroidManifest.xml:29:13-31:85
-136                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
-136-->[com.google.firebase:firebase-database:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/03dc90dc22fd191d92bd5d644f6416d4/transformed/firebase-database-21.0.0/AndroidManifest.xml:30:17-120
-137                android:value="com.google.firebase.components.ComponentRegistrar" />
-137-->[com.google.firebase:firebase-database:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/03dc90dc22fd191d92bd5d644f6416d4/transformed/firebase-database-21.0.0/AndroidManifest.xml:31:17-82
-138            <meta-data
-138-->[com.google.firebase:firebase-database:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/03dc90dc22fd191d92bd5d644f6416d4/transformed/firebase-database-21.0.0/AndroidManifest.xml:32:13-34:85
-139                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-139-->[com.google.firebase:firebase-database:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/03dc90dc22fd191d92bd5d644f6416d4/transformed/firebase-database-21.0.0/AndroidManifest.xml:33:17-109
-140                android:value="com.google.firebase.components.ComponentRegistrar" />
-140-->[com.google.firebase:firebase-database:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/03dc90dc22fd191d92bd5d644f6416d4/transformed/firebase-database-21.0.0/AndroidManifest.xml:34:17-82
-141            <meta-data
-141-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2e842fb017d30038326cd6e96f088850/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:33:13-35:85
-142                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-142-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2e842fb017d30038326cd6e96f088850/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:34:17-139
-143                android:value="com.google.firebase.components.ComponentRegistrar" />
-143-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2e842fb017d30038326cd6e96f088850/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:35:17-82
-144            <meta-data
-144-->[com.google.firebase:firebase-installations:18.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/57c309c0cb9696285d8dd8c2c1c1ab85/transformed/firebase-installations-18.0.0/AndroidManifest.xml:15:13-17:85
-145                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
-145-->[com.google.firebase:firebase-installations:18.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/57c309c0cb9696285d8dd8c2c1c1ab85/transformed/firebase-installations-18.0.0/AndroidManifest.xml:16:17-130
-146                android:value="com.google.firebase.components.ComponentRegistrar" />
-146-->[com.google.firebase:firebase-installations:18.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/57c309c0cb9696285d8dd8c2c1c1ab85/transformed/firebase-installations-18.0.0/AndroidManifest.xml:17:17-82
-147            <meta-data
-147-->[com.google.firebase:firebase-installations:18.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/57c309c0cb9696285d8dd8c2c1c1ab85/transformed/firebase-installations-18.0.0/AndroidManifest.xml:18:13-20:85
-148                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-148-->[com.google.firebase:firebase-installations:18.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/57c309c0cb9696285d8dd8c2c1c1ab85/transformed/firebase-installations-18.0.0/AndroidManifest.xml:19:17-127
-149                android:value="com.google.firebase.components.ComponentRegistrar" />
-149-->[com.google.firebase:firebase-installations:18.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/57c309c0cb9696285d8dd8c2c1c1ab85/transformed/firebase-installations-18.0.0/AndroidManifest.xml:20:17-82
-150            <meta-data
-150-->[com.google.firebase:firebase-common-ktx:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9ee14984d34fb02a97707601feab3943/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
-151                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
-151-->[com.google.firebase:firebase-common-ktx:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9ee14984d34fb02a97707601feab3943/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
-152                android:value="com.google.firebase.components.ComponentRegistrar" />
-152-->[com.google.firebase:firebase-common-ktx:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9ee14984d34fb02a97707601feab3943/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
-153            <meta-data
-153-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/e0ab55d2be26c9f05b6f3c7bbf705dc5/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
-154                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
-154-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/e0ab55d2be26c9f05b6f3c7bbf705dc5/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
-155                android:value="com.google.firebase.components.ComponentRegistrar" />
-155-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/e0ab55d2be26c9f05b6f3c7bbf705dc5/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
-156        </service>
-157
-158        <receiver
-158-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:29:9-33:20
-159            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-159-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:30:13-85
-160            android:enabled="true"
-160-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:31:13-35
-161            android:exported="false" >
-161-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:32:13-37
-162        </receiver>
-163
-164        <service
-164-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:35:9-38:40
-165            android:name="com.google.android.gms.measurement.AppMeasurementService"
-165-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:36:13-84
-166            android:enabled="true"
-166-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:37:13-35
-167            android:exported="false" />
-167-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:38:13-37
-168        <service
-168-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:39:9-43:72
-169            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-169-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:40:13-87
-170            android:enabled="true"
-170-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:41:13-35
-171            android:exported="false"
-171-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:42:13-37
-172            android:permission="android.permission.BIND_JOB_SERVICE" />
-172-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a7494df7f73909c1f5d46a9a0ee6f381/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:43:13-69
-173        <service
-173-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
-174            android:name="androidx.credentials.playservices.CredentialProviderMetadataHolder"
-174-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
-175            android:enabled="true"
-175-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
-176            android:exported="false" >
-176-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
-177            <meta-data
-177-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
-178                android:name="androidx.credentials.CREDENTIAL_PROVIDER_KEY"
-178-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
-179                android:value="androidx.credentials.playservices.CredentialProviderPlayServicesImpl" />
-179-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
-180        </service>
-181
-182        <activity
-182-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
-183            android:name="androidx.credentials.playservices.HiddenActivity"
-183-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
-184            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
-184-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
-185            android:enabled="true"
-185-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
-186            android:exported="false"
-186-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
-187            android:fitsSystemWindows="true"
-187-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
-188            android:theme="@style/Theme.Hidden" >
-188-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6341c0ad9655f255421b7689eb20aa68/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
-189        </activity>
-190        <activity
-190-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a24cc3a590868679f7564bef4f650f50/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
-191            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-191-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a24cc3a590868679f7564bef4f650f50/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
-192            android:excludeFromRecents="true"
-192-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a24cc3a590868679f7564bef4f650f50/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
-193            android:exported="false"
-193-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a24cc3a590868679f7564bef4f650f50/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
-194            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-194-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a24cc3a590868679f7564bef4f650f50/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
-195        <!--
-196            Service handling Google Sign-In user revocation. For apps that do not integrate with
-197            Google Sign-In, this service will never be started.
-198        -->
-199        <service
-199-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a24cc3a590868679f7564bef4f650f50/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
-200            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-200-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a24cc3a590868679f7564bef4f650f50/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
-201            android:exported="true"
-201-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a24cc3a590868679f7564bef4f650f50/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
-202            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
-202-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a24cc3a590868679f7564bef4f650f50/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
-203            android:visibleToInstantApps="true" />
-203-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a24cc3a590868679f7564bef4f650f50/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
-204
-205        <provider
-205-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/e0ab55d2be26c9f05b6f3c7bbf705dc5/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
-206            android:name="com.google.firebase.provider.FirebaseInitProvider"
-206-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/e0ab55d2be26c9f05b6f3c7bbf705dc5/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
-207            android:authorities="fr.isen.tueno.colombaudgracia.kotlinanimalpark.firebaseinitprovider"
-207-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/e0ab55d2be26c9f05b6f3c7bbf705dc5/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
-208            android:directBootAware="true"
-208-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/e0ab55d2be26c9f05b6f3c7bbf705dc5/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
-209            android:exported="false"
-209-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/e0ab55d2be26c9f05b6f3c7bbf705dc5/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
-210            android:initOrder="100" />
-210-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/e0ab55d2be26c9f05b6f3c7bbf705dc5/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
-211
-212        <activity
-212-->[com.google.android.gms:play-services-base:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/3dc8a018f28ed9735e29c7ef4c8011f5/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
-213            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-213-->[com.google.android.gms:play-services-base:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/3dc8a018f28ed9735e29c7ef4c8011f5/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
-214            android:exported="false"
-214-->[com.google.android.gms:play-services-base:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/3dc8a018f28ed9735e29c7ef4c8011f5/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
-215            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-215-->[com.google.android.gms:play-services-base:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/3dc8a018f28ed9735e29c7ef4c8011f5/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
-216
-217        <provider
-217-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/b0a586b28e4ddb9cd86f10569ec979ee/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
-218            android:name="androidx.startup.InitializationProvider"
-218-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/b0a586b28e4ddb9cd86f10569ec979ee/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
-219            android:authorities="fr.isen.tueno.colombaudgracia.kotlinanimalpark.androidx-startup"
-219-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/b0a586b28e4ddb9cd86f10569ec979ee/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
-220            android:exported="false" >
-220-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/b0a586b28e4ddb9cd86f10569ec979ee/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
-221            <meta-data
-221-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/b0a586b28e4ddb9cd86f10569ec979ee/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
-222                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-222-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/b0a586b28e4ddb9cd86f10569ec979ee/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
-223                android:value="androidx.startup" />
-223-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/b0a586b28e4ddb9cd86f10569ec979ee/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
-224            <meta-data
-224-->[androidx.lifecycle:lifecycle-process:2.8.7] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9679068d17185a99a0b6f396f2b461fd/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
-225                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-225-->[androidx.lifecycle:lifecycle-process:2.8.7] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9679068d17185a99a0b6f396f2b461fd/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
-226                android:value="androidx.startup" />
-226-->[androidx.lifecycle:lifecycle-process:2.8.7] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9679068d17185a99a0b6f396f2b461fd/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
-227            <meta-data
-227-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
-228                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-228-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
-229                android:value="androidx.startup" />
-229-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
-230        </provider>
-231
-232        <uses-library
-232-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/4cefa800c27539f22fb6b63dfb66f9c3/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:23:9-25:40
-233            android:name="android.ext.adservices"
-233-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/4cefa800c27539f22fb6b63dfb66f9c3/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:24:13-50
-234            android:required="false" />
-234-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/4cefa800c27539f22fb6b63dfb66f9c3/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:25:13-37
+61-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:31:9-36:20
+62            android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.MainActivity"
+62-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:32:13-41
+63            android:exported="true"
+63-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:33:13-36
+64            android:label="@string/app_name"
+64-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:34:13-45
+65            android:theme="@style/Theme.KotlinAnimalPark" >
+65-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:35:13-58
+66        </activity>
+67        <activity
+67-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:38:9-42:61
+68            android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.TabView"
+68-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:39:13-47
+69            android:exported="false"
+69-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:40:13-37
+70            android:label="@string/title_activity_tab_view"
+70-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:41:13-60
+71            android:theme="@style/Theme.KotlinAnimalPark" />
+71-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:42:13-58
+72        <activity
+72-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:43:9-48:20
+73            android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.User"
+73-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:44:13-44
+74            android:exported="true"
+74-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:45:13-36
+75            android:label="@string/title_activity_user"
+75-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:46:13-56
+76            android:theme="@style/Theme.KotlinAnimalPark" >
+76-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:47:13-58
+77        </activity>
+78        <activity
+78-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:49:9-55:20
+79            android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.Home"
+79-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:50:13-44
+80            android:exported="true"
+80-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:51:13-36
+81            android:label="@string/title_activity_home"
+81-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:52:13-56
+82            android:theme="@style/Theme.KotlinAnimalPark" >
+82-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:53:13-58
+83        </activity>
+84        <activity
+84-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:56:9-60:61
+85            android:name="fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.Register"
+85-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:57:13-48
+86            android:exported="false"
+86-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:58:13-37
+87            android:label="@string/title_activity_register"
+87-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:59:13-60
+88            android:theme="@style/Theme.KotlinAnimalPark" />
+88-->/home/tueno-larry-jason/AndroidStudioProjects/kotlin-animal-park/app/src/main/AndroidManifest.xml:60:13-58
+89        <activity
+89-->[androidx.compose.ui:ui-tooling-android:1.6.6] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/618c8ff98a4fc6894780cbbc9891a0d0/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+90            android:name="androidx.compose.ui.tooling.PreviewActivity"
+90-->[androidx.compose.ui:ui-tooling-android:1.6.6] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/618c8ff98a4fc6894780cbbc9891a0d0/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+91            android:exported="true" />
+91-->[androidx.compose.ui:ui-tooling-android:1.6.6] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/618c8ff98a4fc6894780cbbc9891a0d0/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+92        <activity
+92-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:29:9-46:20
+93            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+93-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:30:13-80
+94            android:excludeFromRecents="true"
+94-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:31:13-46
+95            android:exported="true"
+95-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:32:13-36
+96            android:launchMode="singleTask"
+96-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:33:13-44
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+97-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:34:13-72
+98            <intent-filter>
+98-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:35:13-45:29
+99                <action android:name="android.intent.action.VIEW" />
+99-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:36:17-69
+99-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:36:25-66
+100
+101                <category android:name="android.intent.category.DEFAULT" />
+101-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:38:17-76
+101-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:38:27-73
+102                <category android:name="android.intent.category.BROWSABLE" />
+102-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:39:17-78
+102-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:39:27-75
+103
+104                <data
+104-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:41:17-44:51
+105                    android:host="firebase.auth"
+105-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:42:21-49
+106                    android:path="/"
+106-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:43:21-37
+107                    android:scheme="genericidp" />
+107-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:44:21-48
+108            </intent-filter>
+109        </activity>
+110        <activity
+110-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:47:9-64:20
+111            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+111-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:48:13-79
+112            android:excludeFromRecents="true"
+112-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:49:13-46
+113            android:exported="true"
+113-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:50:13-36
+114            android:launchMode="singleTask"
+114-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:51:13-44
+115            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+115-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:52:13-72
+116            <intent-filter>
+116-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:53:13-63:29
+117                <action android:name="android.intent.action.VIEW" />
+117-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:36:17-69
+117-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:36:25-66
+118
+119                <category android:name="android.intent.category.DEFAULT" />
+119-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:38:17-76
+119-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:38:27-73
+120                <category android:name="android.intent.category.BROWSABLE" />
+120-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:39:17-78
+120-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:39:27-75
+121
+122                <data
+122-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:41:17-44:51
+123                    android:host="firebase.auth"
+123-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:42:21-49
+124                    android:path="/"
+124-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:43:21-37
+125                    android:scheme="recaptcha" />
+125-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:44:21-48
+126            </intent-filter>
+127        </activity>
+128
+129        <service
+129-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:66:9-72:19
+130            android:name="com.google.firebase.components.ComponentDiscoveryService"
+130-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:67:13-84
+131            android:directBootAware="true"
+131-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/968cf9fc7cfef05be79e25898e81ee63/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+132            android:exported="false" >
+132-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:68:13-37
+133            <meta-data
+133-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:69:13-71:85
+134                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+134-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:70:17-109
+135                android:value="com.google.firebase.components.ComponentRegistrar" />
+135-->[com.google.firebase:firebase-auth:23.2.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/9312684266f794f383bcd9099f22e4ee/transformed/firebase-auth-23.2.0/AndroidManifest.xml:71:17-82
+136            <meta-data
+136-->[com.google.firebase:firebase-database:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6fd7e190e6f86564259ec21f3e106768/transformed/firebase-database-21.0.0/AndroidManifest.xml:29:13-31:85
+137                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+137-->[com.google.firebase:firebase-database:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6fd7e190e6f86564259ec21f3e106768/transformed/firebase-database-21.0.0/AndroidManifest.xml:30:17-120
+138                android:value="com.google.firebase.components.ComponentRegistrar" />
+138-->[com.google.firebase:firebase-database:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6fd7e190e6f86564259ec21f3e106768/transformed/firebase-database-21.0.0/AndroidManifest.xml:31:17-82
+139            <meta-data
+139-->[com.google.firebase:firebase-database:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6fd7e190e6f86564259ec21f3e106768/transformed/firebase-database-21.0.0/AndroidManifest.xml:32:13-34:85
+140                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+140-->[com.google.firebase:firebase-database:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6fd7e190e6f86564259ec21f3e106768/transformed/firebase-database-21.0.0/AndroidManifest.xml:33:17-109
+141                android:value="com.google.firebase.components.ComponentRegistrar" />
+141-->[com.google.firebase:firebase-database:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/6fd7e190e6f86564259ec21f3e106768/transformed/firebase-database-21.0.0/AndroidManifest.xml:34:17-82
+142            <meta-data
+142-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a407f381ce1fad5656e3b820903863e1/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:33:13-35:85
+143                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+143-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a407f381ce1fad5656e3b820903863e1/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:34:17-139
+144                android:value="com.google.firebase.components.ComponentRegistrar" />
+144-->[com.google.android.gms:play-services-measurement-api:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a407f381ce1fad5656e3b820903863e1/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:35:17-82
+145            <meta-data
+145-->[com.google.firebase:firebase-installations:18.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/15b8f0e50c9af0fc81112d8ebe0633c7/transformed/firebase-installations-18.0.0/AndroidManifest.xml:15:13-17:85
+146                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+146-->[com.google.firebase:firebase-installations:18.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/15b8f0e50c9af0fc81112d8ebe0633c7/transformed/firebase-installations-18.0.0/AndroidManifest.xml:16:17-130
+147                android:value="com.google.firebase.components.ComponentRegistrar" />
+147-->[com.google.firebase:firebase-installations:18.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/15b8f0e50c9af0fc81112d8ebe0633c7/transformed/firebase-installations-18.0.0/AndroidManifest.xml:17:17-82
+148            <meta-data
+148-->[com.google.firebase:firebase-installations:18.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/15b8f0e50c9af0fc81112d8ebe0633c7/transformed/firebase-installations-18.0.0/AndroidManifest.xml:18:13-20:85
+149                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+149-->[com.google.firebase:firebase-installations:18.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/15b8f0e50c9af0fc81112d8ebe0633c7/transformed/firebase-installations-18.0.0/AndroidManifest.xml:19:17-127
+150                android:value="com.google.firebase.components.ComponentRegistrar" />
+150-->[com.google.firebase:firebase-installations:18.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/15b8f0e50c9af0fc81112d8ebe0633c7/transformed/firebase-installations-18.0.0/AndroidManifest.xml:20:17-82
+151            <meta-data
+151-->[com.google.firebase:firebase-common-ktx:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/72191556b96c777c1d652ba3b0420c91/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+152                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+152-->[com.google.firebase:firebase-common-ktx:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/72191556b96c777c1d652ba3b0420c91/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+153                android:value="com.google.firebase.components.ComponentRegistrar" />
+153-->[com.google.firebase:firebase-common-ktx:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/72191556b96c777c1d652ba3b0420c91/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+154            <meta-data
+154-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/968cf9fc7cfef05be79e25898e81ee63/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+155                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+155-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/968cf9fc7cfef05be79e25898e81ee63/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+156                android:value="com.google.firebase.components.ComponentRegistrar" />
+156-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/968cf9fc7cfef05be79e25898e81ee63/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+157        </service>
+158
+159        <receiver
+159-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:29:9-33:20
+160            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+160-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:30:13-85
+161            android:enabled="true"
+161-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:31:13-35
+162            android:exported="false" >
+162-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:32:13-37
+163        </receiver>
+164
+165        <service
+165-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:35:9-38:40
+166            android:name="com.google.android.gms.measurement.AppMeasurementService"
+166-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:36:13-84
+167            android:enabled="true"
+167-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:37:13-35
+168            android:exported="false" />
+168-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:38:13-37
+169        <service
+169-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:39:9-43:72
+170            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+170-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:40:13-87
+171            android:enabled="true"
+171-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:41:13-35
+172            android:exported="false"
+172-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:42:13-37
+173            android:permission="android.permission.BIND_JOB_SERVICE" />
+173-->[com.google.android.gms:play-services-measurement:22.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/2d46272395c18edd763fc29569ae9b93/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:43:13-69
+174        <service
+174-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+175            android:name="androidx.credentials.playservices.CredentialProviderMetadataHolder"
+175-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+176            android:enabled="true"
+176-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+177            android:exported="false" >
+177-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+178            <meta-data
+178-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+179                android:name="androidx.credentials.CREDENTIAL_PROVIDER_KEY"
+179-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+180                android:value="androidx.credentials.playservices.CredentialProviderPlayServicesImpl" />
+180-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+181        </service>
+182
+183        <activity
+183-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+184            android:name="androidx.credentials.playservices.HiddenActivity"
+184-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+185            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+185-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+186            android:enabled="true"
+186-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+187            android:exported="false"
+187-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+188            android:fitsSystemWindows="true"
+188-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+189            android:theme="@style/Theme.Hidden" >
+189-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/38ebc678ca46e4d021d7157d342538f2/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+190        </activity>
+191        <activity
+191-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a71ba6d6dfdea3d39913649165543970/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+192            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+192-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a71ba6d6dfdea3d39913649165543970/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+193            android:excludeFromRecents="true"
+193-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a71ba6d6dfdea3d39913649165543970/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+194            android:exported="false"
+194-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a71ba6d6dfdea3d39913649165543970/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+195            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+195-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a71ba6d6dfdea3d39913649165543970/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+196        <!--
+197            Service handling Google Sign-In user revocation. For apps that do not integrate with
+198            Google Sign-In, this service will never be started.
+199        -->
+200        <service
+200-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a71ba6d6dfdea3d39913649165543970/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+201            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+201-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a71ba6d6dfdea3d39913649165543970/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+202            android:exported="true"
+202-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a71ba6d6dfdea3d39913649165543970/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+203            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+203-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a71ba6d6dfdea3d39913649165543970/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+204            android:visibleToInstantApps="true" />
+204-->[com.google.android.gms:play-services-auth:20.7.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/a71ba6d6dfdea3d39913649165543970/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+205
+206        <provider
+206-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/968cf9fc7cfef05be79e25898e81ee63/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+207            android:name="com.google.firebase.provider.FirebaseInitProvider"
+207-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/968cf9fc7cfef05be79e25898e81ee63/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+208            android:authorities="fr.isen.tueno.colombaudgracia.kotlinanimalpark.firebaseinitprovider"
+208-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/968cf9fc7cfef05be79e25898e81ee63/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+209            android:directBootAware="true"
+209-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/968cf9fc7cfef05be79e25898e81ee63/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+210            android:exported="false"
+210-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/968cf9fc7cfef05be79e25898e81ee63/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+211            android:initOrder="100" />
+211-->[com.google.firebase:firebase-common:21.0.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/968cf9fc7cfef05be79e25898e81ee63/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+212        <provider
+212-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/995b6e50ec9838d26788b39e7af97645/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+213            android:name="androidx.startup.InitializationProvider"
+213-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/995b6e50ec9838d26788b39e7af97645/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+214            android:authorities="fr.isen.tueno.colombaudgracia.kotlinanimalpark.androidx-startup"
+214-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/995b6e50ec9838d26788b39e7af97645/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+215            android:exported="false" >
+215-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/995b6e50ec9838d26788b39e7af97645/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+216            <meta-data
+216-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/995b6e50ec9838d26788b39e7af97645/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+217                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+217-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/995b6e50ec9838d26788b39e7af97645/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+218                android:value="androidx.startup" />
+218-->[androidx.emoji2:emoji2:1.3.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/995b6e50ec9838d26788b39e7af97645/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+219            <meta-data
+219-->[androidx.lifecycle:lifecycle-process:2.8.7] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/bd9e5d5d4634c3324a31f82c8fae6fbe/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+220                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+220-->[androidx.lifecycle:lifecycle-process:2.8.7] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/bd9e5d5d4634c3324a31f82c8fae6fbe/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+221                android:value="androidx.startup" />
+221-->[androidx.lifecycle:lifecycle-process:2.8.7] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/bd9e5d5d4634c3324a31f82c8fae6fbe/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+222            <meta-data
+222-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+223                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+223-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+224                android:value="androidx.startup" />
+224-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+225        </provider>
+226
+227        <uses-library
+227-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/976704eda1dc6694428d890dc28a19ac/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:23:9-25:40
+228            android:name="android.ext.adservices"
+228-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/976704eda1dc6694428d890dc28a19ac/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:24:13-50
+229            android:required="false" />
+229-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/976704eda1dc6694428d890dc28a19ac/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:25:13-37
+230
+231        <activity
+231-->[com.google.android.gms:play-services-base:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/5bb256b8fb2fe2b25bf7021000f15183/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+232            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+232-->[com.google.android.gms:play-services-base:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/5bb256b8fb2fe2b25bf7021000f15183/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+233            android:exported="false"
+233-->[com.google.android.gms:play-services-base:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/5bb256b8fb2fe2b25bf7021000f15183/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+234            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+234-->[com.google.android.gms:play-services-base:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/5bb256b8fb2fe2b25bf7021000f15183/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
 235
 236        <meta-data
-236-->[com.google.android.gms:play-services-basement:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/e337e1e8772bbb2709ed2967a1c510a4/transformed/play-services-basement-18.5.0/AndroidManifest.xml:21:9-23:69
+236-->[com.google.android.gms:play-services-basement:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/22587b52151b9339addf98e9ff6190e8/transformed/play-services-basement-18.5.0/AndroidManifest.xml:21:9-23:69
 237            android:name="com.google.android.gms.version"
-237-->[com.google.android.gms:play-services-basement:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/e337e1e8772bbb2709ed2967a1c510a4/transformed/play-services-basement-18.5.0/AndroidManifest.xml:22:13-58
+237-->[com.google.android.gms:play-services-basement:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/22587b52151b9339addf98e9ff6190e8/transformed/play-services-basement-18.5.0/AndroidManifest.xml:22:13-58
 238            android:value="@integer/google_play_services_version" />
-238-->[com.google.android.gms:play-services-basement:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/e337e1e8772bbb2709ed2967a1c510a4/transformed/play-services-basement-18.5.0/AndroidManifest.xml:23:13-66
+238-->[com.google.android.gms:play-services-basement:18.5.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/22587b52151b9339addf98e9ff6190e8/transformed/play-services-basement-18.5.0/AndroidManifest.xml:23:13-66
 239
-240        <receiver
-240-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
-241            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-241-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
-242            android:directBootAware="false"
-242-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
-243            android:enabled="true"
-243-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
-244            android:exported="true"
-244-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
-245            android:permission="android.permission.DUMP" >
-245-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
-246            <intent-filter>
-246-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
-247                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-247-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
-247-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
-248            </intent-filter>
-249            <intent-filter>
-249-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
-250                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-250-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
-250-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
-251            </intent-filter>
-252            <intent-filter>
-252-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
-253                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-253-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
-253-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
-254            </intent-filter>
-255            <intent-filter>
-255-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
-256                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-256-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
-256-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/7dab5e77380af1663b4da159760fd2f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
-257            </intent-filter>
-258        </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
-259        <activity
-259-->[com.google.android.play:core-common:2.0.3] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/46f2ebc0699569b536d2571aebf5981f/transformed/core-common-2.0.3/AndroidManifest.xml:14:9-18:65
-260            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
-260-->[com.google.android.play:core-common:2.0.3] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/46f2ebc0699569b536d2571aebf5981f/transformed/core-common-2.0.3/AndroidManifest.xml:15:13-93
-261            android:exported="false"
-261-->[com.google.android.play:core-common:2.0.3] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/46f2ebc0699569b536d2571aebf5981f/transformed/core-common-2.0.3/AndroidManifest.xml:16:13-37
-262            android:stateNotNeeded="true"
-262-->[com.google.android.play:core-common:2.0.3] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/46f2ebc0699569b536d2571aebf5981f/transformed/core-common-2.0.3/AndroidManifest.xml:17:13-42
-263            android:theme="@style/Theme.PlayCore.Transparent" />
-263-->[com.google.android.play:core-common:2.0.3] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/46f2ebc0699569b536d2571aebf5981f/transformed/core-common-2.0.3/AndroidManifest.xml:18:13-62
-264    </application>
-265
-266</manifest>
+240        <activity
+240-->[androidx.compose.ui:ui-test-manifest:1.6.6] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/f173e904b1bdeb27bdecbe7f5f65a06d/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:23:9-25:39
+241            android:name="androidx.activity.ComponentActivity"
+241-->[androidx.compose.ui:ui-test-manifest:1.6.6] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/f173e904b1bdeb27bdecbe7f5f65a06d/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:24:13-63
+242            android:exported="true" />
+242-->[androidx.compose.ui:ui-test-manifest:1.6.6] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/f173e904b1bdeb27bdecbe7f5f65a06d/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:25:13-36
+243
+244        <receiver
+244-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+245            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+245-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+246            android:directBootAware="false"
+246-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+247            android:enabled="true"
+247-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+248            android:exported="true"
+248-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+249            android:permission="android.permission.DUMP" >
+249-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+250            <intent-filter>
+250-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+251                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+251-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+251-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+252            </intent-filter>
+253            <intent-filter>
+253-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+254                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+254-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+254-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+255            </intent-filter>
+256            <intent-filter>
+256-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+257                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+257-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+257-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+258            </intent-filter>
+259            <intent-filter>
+259-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+260                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+260-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+260-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/0457ba2258404c88b3f2e5f4e95a1010/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+261            </intent-filter>
+262        </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
+263        <activity
+263-->[com.google.android.play:core-common:2.0.3] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/f2f4fd9ddce7e0abff95870185d5d660/transformed/core-common-2.0.3/AndroidManifest.xml:14:9-18:65
+264            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+264-->[com.google.android.play:core-common:2.0.3] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/f2f4fd9ddce7e0abff95870185d5d660/transformed/core-common-2.0.3/AndroidManifest.xml:15:13-93
+265            android:exported="false"
+265-->[com.google.android.play:core-common:2.0.3] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/f2f4fd9ddce7e0abff95870185d5d660/transformed/core-common-2.0.3/AndroidManifest.xml:16:13-37
+266            android:stateNotNeeded="true"
+266-->[com.google.android.play:core-common:2.0.3] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/f2f4fd9ddce7e0abff95870185d5d660/transformed/core-common-2.0.3/AndroidManifest.xml:17:13-42
+267            android:theme="@style/Theme.PlayCore.Transparent" />
+267-->[com.google.android.play:core-common:2.0.3] /home/tueno-larry-jason/.gradle/caches/8.10.2/transforms/f2f4fd9ddce7e0abff95870185d5d660/transformed/core-common-2.0.3/AndroidManifest.xml:18:13-62
+268    </application>
+269
+270</manifest>

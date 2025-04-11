@@ -14,52 +14,50 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinAnimalPark"
         tools:targetApi="31">
+
+        <!-- Login = écran d’accueil -->
+        <activity
+            android:name=".ui.screens.Login"
+            android:exported="true"
+            android:label="@string/title_activity_login"
+            android:theme="@style/Theme.KotlinAnimalPark" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Page principale avec la NavBar -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.KotlinAnimalPark">
+        </activity>
+
+        <activity
+            android:name=".ui.screens.TabView"
+            android:exported="false"
+            android:label="@string/title_activity_tab_view"
+            android:theme="@style/Theme.KotlinAnimalPark" />
         <activity
             android:name=".ui.screens.User"
             android:exported="true"
             android:label="@string/title_activity_user"
-            android:theme="@style/Theme.KotlinAnimalPark" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            android:theme="@style/Theme.KotlinAnimalPark">
         </activity>
         <activity
             android:name=".ui.screens.Home"
-            android:exported="false"
+            android:exported="true"
             android:label="@string/title_activity_home"
             android:theme="@style/Theme.KotlinAnimalPark">
+
         </activity>
         <activity
             android:name=".ui.screens.Register"
             android:exported="false"
             android:label="@string/title_activity_register"
             android:theme="@style/Theme.KotlinAnimalPark" />
-        <activity
-            android:name=".ui.screens.Login"
-            android:exported="false"
-            android:label="@string/title_activity_login"
-            android:theme="@style/Theme.KotlinAnimalPark"></activity>
-        <activity
-            android:name=".ui.pages.Login"
-            android:exported="false"
-            android:label="@string/title_activity_login"
-            android:theme="@style/Theme.KotlinAnimalPark" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.KotlinAnimalPark">
-
-            <!--
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-            -->
-        </activity>
     </application>
 
 </manifest>

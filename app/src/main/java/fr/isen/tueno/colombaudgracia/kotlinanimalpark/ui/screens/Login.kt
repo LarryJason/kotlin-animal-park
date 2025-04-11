@@ -39,6 +39,7 @@ import androidx.core.content.ContextCompat.startActivity
 import com.google.firebase.Firebase
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.auth
+import fr.isen.tueno.colombaudgracia.kotlinanimalpark.MainActivity
 import fr.isen.tueno.colombaudgracia.kotlinanimalpark.ui.screens.ui.theme.KotlinAnimalParkTheme
 
 class Login : ComponentActivity() {
@@ -68,7 +69,7 @@ fun LoginScreen() {
         auth.signInWithEmailAndPassword(email.value,password.value)
             .addOnCompleteListener { task ->
                 if(task.isSuccessful){
-                    val intent= Intent(context ,Home::class.java)
+                    val intent= Intent(context ,MainActivity::class.java)
                     context.startActivity(intent)
                     Toast.makeText(context, "Vous ètes connecté", Toast.LENGTH_LONG).show()
                     //finish()

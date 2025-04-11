@@ -7,8 +7,10 @@ import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Button
@@ -41,10 +43,21 @@ fun userScreen() {
     val context = LocalContext.current
     val user = FirebaseAuth.getInstance().currentUser
 
+    Row(
+        modifier = Modifier
+            .padding(start = 40.dp, top = 25.dp)
+    ) {
+        Text(
+            text = "Profile",
+            fontSize = 22.sp,
+            fontWeight = FontWeight.Bold,
+            )
+    }
     Column(
         modifier = Modifier
             .fillMaxSize()
             .padding(16.dp),
+
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
